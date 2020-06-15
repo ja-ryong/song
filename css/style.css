@@ -1,0 +1,21 @@
+html{scroll-behavior: smooth;}
+		@font-face { font-family: 'SCDream'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-3Light.woff') format('woff'); font-weight: 300;}
+		@font-face { font-family: 'SCDream'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-2ExtraLight.woff') format('woff'); font-weight: 200;}
+		@font-face { font-family: 'GmarketSansBold'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansBold.woff') format('woff'); font-weight: normal; font-style: normal; }
+		body, h1, h2, h3, h4, p{margin: 0;}
+		body{background:#efb38b;}
+		header{margin-bottom:300px; color:#ede3d9; font-family:GmarketSansBold; font-size:5em; text-align: center; background:#414d7f; height: 300px; border-radius: 0 0 200px 200px; line-height: 200px;}
+		h1{background:#414d7f; color:#ede3d9; border: 1px solid #ede3d9; border-collapse:collapse; height:25px; font-family:SCDream; font-weight: 300; padding-top:4px; font-size: 1em;}
+		h2{background:#414d7f; color:#ede3d9; border: 1px solid #ede3d9; border-collapse:collapse; height:25px; font-family:SCDream; font-weight: 300; padding-top:4px; font-size: 1em; padding-left: 380px;}
+		h3{background:#ede3d9; color:#414d7f; border: 1px solid #ede3d9; border-collapse:collapse; height:25px; font-family:SCDream; font-weight: 300; padding-top:4px; font-size: 1em;}
+		h4{background:#ede3d9; color:#414d7f; border: 1px solid #ede3d9; border-collapse:collapse; height:25px; font-family:SCDream; font-weight: 300; padding-top:4px; font-size: 1em; padding-left: 380px;}
+		h1, h2, h3, h4{border:1px solid; border-collapse:collapse;}
+		p{font-size: 4em; color:#414d7f; font-family:GmarketSansBold;}
+		img{width:200px;}
+		footer{color:#414d7f; margin: auto; margin-bottom: 100px; font-family:SCDream; font-weight: 200; font-size: 0.2em; text-align:center; }
+		.floor1{width:75%; margin:auto; margin-right:0px; padding-left:80px;}
+		.floor2{width:75%; margin:auto; margin-right:0px; padding-left:110px;}
+		.floor3{width:75%; margin:auto; margin-right:0px; padding-left:140px;}
+		.floor4{width:75%; margin:auto; margin-right:0px; padding-left:170px;}
+		.tri {width: 0px; height: 0px; border-top: 10px solid transparent; border-left:20px solid #ede3d9; border-bottom: 10px solid transparent;}
+		.tri2 {width: 0px; height: 0px; border-top: 10px solid transparent; border-left:20px solid #414d7f; border-bottom: 10px solid transparent;}	
